@@ -1,5 +1,5 @@
 # Digital-Vending-Machine
-##Description of the Project:
+## Description of the Project:
 The aim of DiVe is to solve the problems associated with the currently present model of vending machines. It is often found that the items that are requested,stall out because of its present spring component.
 The prototype tends to solve this problem by providing a new mechanism which is expected to work far better and more efficiently compared to the current model.
 
